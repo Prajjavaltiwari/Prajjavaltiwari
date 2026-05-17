@@ -12,8 +12,7 @@
 public class Prajjaval {
 
     String name     = "Prajjaval Tiwari";
-    String role     = "Aspiring Java Cloud Engineer";
-    String goal     = "Land my first Backend Developer job 🚀";
+    String role     = "Java Cloud Engineer";
 
     String[] currentlyLearning = {
         "Spring Boot", "JWT Auth", "AWS Cloud", "AWS Cloud Security", "System Design"
