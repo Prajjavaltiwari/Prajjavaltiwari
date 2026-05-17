@@ -5,29 +5,6 @@
 </p>
 
 ---
-
-## 👨‍💻 About Me
-
-```java
-public class Prajjaval {
-
-    String name     = "Prajjaval Tiwari";
-    String role     = "Java Cloud Engineer";
-
-    String[] currentlyLearning = {
-        "Spring Boot", "JWT Auth", "AWS Cloud", "AWS Cloud Security", "System Design"
-    };
-
-    String[] strengths = {
-        "Java", "Data Structures", "Problem Solving", "REST APIs"
-    };
-
-    String motto = "Build. Break. Learn. Repeat.";
-}
-```
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
