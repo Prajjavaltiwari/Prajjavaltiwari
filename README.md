@@ -23,16 +23,16 @@
 
 ---
 
-## 🗺️ Java Cloud Engineer Roadmap
+## 🗺️ Java Cloud Engineer 
 
 > I'm documenting my journey publicly — one day at a time!
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| Day 1 | Java Basics & OOP Revision | ✅ Done |
-| Day 2 | Spring Boot REST APIs | ✅ Done |
-| Day 3 | JWT Auth & Role-Based Security | ✅ Done |
-| Day 4 | Coming soon... | 🔄 In Progress |
+| Day 30 | Building Project HLD | ✅ Done |
+| Day 32 | Spring Boot REST APIs on all three services | ✅ Done |
+| Day 33 | JWT Auth & Role-Based Security | ✅ Done |
+| Day 34 | Coming soon... | 🔄 In Progress |
 
 ---
 
