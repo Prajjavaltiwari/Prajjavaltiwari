@@ -37,6 +37,12 @@
 ---
 
 ## 📌 Featured Project
+### 🚀 [InsureFlow](https://github.com/Prajjavaltiwari/InsureFlow_app)
+> A microservices-based commercial insurance platform built with Spring Boot, Kafka, React, MySQL, Docker, and Kubernetes.
+- 👤 Customer Management
+- 📄 Quote Management
+- 📧 Email Notifications with Kafka consumers
+- ✅ Integration Resend API
 
 ### 🔐 [Jwt_authWings](https://github.com/Prajjavaltiwari/Jwt_authWings)
 > Spring Boot app with JWT Authentication & Role-Based Authorization
